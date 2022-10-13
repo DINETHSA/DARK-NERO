@@ -1,5 +1,5 @@
 {
-  "name": "⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋⚜",
+  "name": "⚜️DHINU....S⚜",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/zim-bot/zimbot-v2",
   "logo": "https://i.ibb.co/Rg9YpBF/IMG-20221010-WA0039.jpg",
@@ -7,17 +7,17 @@
    "env": {
   
  "OWNER_NAME" :{
-    "description" : "enter you name",
+    "description" : "DHINU....s",
     "required" : true,
-  "value" : "KAVEESHA "
+  "value" : "DHINU....s "
     },
     
      
      
 "ALIVE_MSG" :{
-    "description" : "enter you msg",
+    "description" : "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions",
     "required" : true,
-  "value" : "HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖"
+  "value" : "HI I'M  ⚜️DHINU....S
     },
      
      "ALIVE_LOGO" :{
